@@ -1,2 +1,2 @@
-# amer-invetion
-Here are all my project which i have done.
+# amer-invetions
+Here are all my projects which i have done.
